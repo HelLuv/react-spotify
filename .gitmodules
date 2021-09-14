@@ -1,0 +1,6 @@
+[submodule "react-spotify-backend"]
+	path = react-spotify-backend
+	url = https://github.com/HelLuv/react-spotify-backend.git
+[submodule "react-spotify-frontend"]
+	path = react-spotify-frontend
+	url = https://github.com/HelLuv/react-spotify-frontend.git
